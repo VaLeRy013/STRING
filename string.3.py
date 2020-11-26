@@ -1,0 +1,6 @@
+a=input("Dati primul cuvant:")
+b=input("Dati al doilea cuvant:")
+c=input("Dati al treilea cuvant:")
+d=input("Dati al patrulea cuvant:")
+print("Fraza este: ",a, b, c, d,sep="  ")
+print(a+" "+b+" "+c+" "+d+".")
